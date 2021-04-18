@@ -15,9 +15,11 @@ We will access one of the approximately 50 datasets, containing reviews of the p
 
 ### Screenshots
 Screenshot of Results for Paid (Vine) Reviews:
+
 ![Results for Paid Reviews](./Images/paid-reviews.PNG)
 
 Screenshot of Results for Unpaid (Non-Vine) Reviews:
+
 ![Results for unpaid Reviews](./Images/unpaid-reviews.PNG)
 
 ### Observations
