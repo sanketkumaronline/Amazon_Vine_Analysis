@@ -25,11 +25,11 @@ Screenshot of Results for Unpaid (Non-Vine) Reviews:
 ### Observations
 * **How many Vine reviews and non-Vine reviews were there?**
     
-  **Ans:** There are total of 926 Vine (paid) reviews and 40,990 non-Vine (unpaid) reviews
+  **Ans:** There were total of 926 Vine (paid) reviews and 40,990 non-Vine (unpaid) reviews
 
 * **How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?**
     
-  **Ans:** 408 Vine reviews were 5 stars. 18087 non-Vine reviews were 5 stars.
+  **Ans:** 408 Vine reviews were 5 stars. 18,087 non-Vine reviews were 5 stars.
 
 * **What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?**
 
